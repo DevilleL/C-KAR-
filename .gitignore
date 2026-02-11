@@ -1,0 +1,6 @@
+# Ignorer les secrets (mots de passe)
+secrets/
+
+# Ignorer les fichiers systèmes
+.DS_Store
+Thumbs.db
